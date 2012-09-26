@@ -37,5 +37,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-N7000 TARGET_DEVICE=GT-N7000 BUI
 
 # Add Google apps
 $(call inherit-product, vendor/google/full.mk)
-
-
